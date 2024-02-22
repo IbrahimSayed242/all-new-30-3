@@ -1,0 +1,34 @@
+---
+const clients = [
+  { ref: "#", image: "/assets/brands/axiatrade.svg", whiteImage: "/assets/brands/graygrids-white.svg", name: "tailgrids"},
+  { ref: "#", image: "/assets/brands/babilgame.svg", whiteImage: "/assets/brands/lineicons-white.svg", name: "ayroui"},
+  { ref: "#", image: "/assets/brands/evest.svg", whiteImage: "/assets/brands/uideck-white.svg", name: "uideck"},
+  { ref: "#", image: "/assets/brands/exness.svg", whiteImage: "/assets/brands/ayroui-white.svg", name: "graygrids"},
+
+]
+---
+
+<!-- ====== Brands Section Start -->
+<section class="pb-20 dark:bg-dark">
+  <div class="container px-4">
+    <div class="-mx-4 flex  items-center justify-center gap-2 ">
+      {
+        clients.map(client => (
+          <a
+            href={client.ref}
+            target="_blank"
+            rel="nofollow noopner"
+          >
+            <img
+              src={client.image}
+              alt={client.name}
+              class=" grayscale hover:grayscale-0 hover:scale-105 "
+            />
+          
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</section>
+<!-- ====== Brands Section End -->
