@@ -4,7 +4,7 @@ import Features from '../components/Features.astro';
 import Hero from '../components/Hero.astro';
 import Testimonials from '../components/OurBrands.astro';
 import Layout from '../layouts/Layout.astro';
-
+import Servcard from '../components/Servcard.astro';
 import Faq from '../components/Faq.astro';
 import Clients from '../components/Clients.astro';
 import Creators from '../components/Creators.astro';
@@ -12,6 +12,9 @@ import Contact from '../components/Contactsection.astro';
 import CTA from '../components/CTAsection.astro';
 import Blogsection from '../components/Blogsection.astro';
 import Pricing from '../components/Pricing.astro';
+
+
+
 ---
 
 <Layout
@@ -19,15 +22,28 @@ import Pricing from '../components/Pricing.astro';
   title="All targeting Media and Marketing | All Targeting "
 >
   <Hero />
-  <Features />
   <About />
+  <Servcard/>
+  <Features />
+
   <Creators />
   <CTA />
 
-  <Testimonials />
+ 
   <Faq />
  <Pricing/>
   <Blogsection />
   <Contact />
   <Clients />
+
+
+
+
+
+
+
+
+
+
+
 </Layout>

@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+	<title>1-svg</title>
+	<style>
+		.s0 { fill: #13757b } 
+		.s1 { fill: #f3f4f6 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 24c0-13.3 10.7-24 24-24 13.3 0 24 10.7 24 24 0 13.3-10.7 24-24 24-13.3 0-24-10.7-24-24z"/>
+	<path id="Layer" class="s1" d="m21.9 17.6v-2h4.5v17.4h-2.2v-15.4z"/>
+</svg>

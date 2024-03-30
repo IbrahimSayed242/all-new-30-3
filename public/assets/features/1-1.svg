@@ -1,0 +1,34 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127 128" width="127" height="128">
+	<title>3_step_center_aligned_how_it_worksSvg1-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h127v127.55h-127z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #13757b } 
+		.s1 { fill: none;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3 } 
+		.s2 { fill: #032e47 } 
+		.s3 { fill: #1d4ed8 } 
+		.s4 { fill: #f3f4f6 } 
+		.s5 { fill: #0b959d } 
+		.s6 { fill: none;stroke: #f3f4f6;stroke-linecap: round;stroke-miterlimit:10;stroke-width: 2 } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m64.8 124.6c33.6 0 60.8-27.2 60.8-60.8 0-33.6-27.2-60.8-60.8-60.8-33.6 0-60.8 27.2-60.8 60.8 0 33.6 27.2 60.8 60.8 60.8z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m65.2 63.6c4.9 0 8.9-3.9 8.9-8.8 0-4.8-4-8.8-8.9-8.8-4.8 0-8.8 4-8.8 8.8 0 4.9 4 8.8 8.8 8.8z"/>
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m52 82v-4.4c0-2.4 0.9-4.6 2.6-6.3 1.6-1.6 3.9-2.5 6.2-2.5h8.8c2.4 0 4.6 0.9 6.3 2.5 1.6 1.7 2.6 3.9 2.6 6.3v4.4"/>
+			<path id="Layer" class="s2" d="m117.7 12.5c3.4 0 6.2-2.8 6.2-6.3 0-3.4-2.8-6.2-6.2-6.2-3.5 0-6.2 2.8-6.2 6.2 0 3.5 2.7 6.3 6.2 6.3z"/>
+			<path id="Layer" class="s2" d="m6.2 92.1c3.5 0 6.3-2.8 6.3-6.3 0-3.4-2.8-6.2-6.3-6.2-3.4 0-6.2 2.8-6.2 6.2 0 3.5 2.8 6.3 6.2 6.3z"/>
+			<path id="Layer" class="s3" d="m11.8 70.2c2.3 0 4.1-1.8 4.1-4.1 0-2.3-1.8-4.1-4.1-4.1-2.2 0-4.1 1.8-4.1 4.1 0 2.3 1.9 4.1 4.1 4.1z"/>
+			<path id="Layer" class="s3" d="m22.8 127.6c1.6 0 2.8-1.2 2.8-2.8 0-1.6-1.2-2.8-2.8-2.8-1.6 0-2.8 1.2-2.8 2.8 0 1.6 1.2 2.8 2.8 2.8z"/>
+			<path id="Layer" class="s3" d="m123.9 24.1c1.7 0 3.1-1.3 3.1-3 0-1.7-1.4-3.1-3.1-3.1-1.7 0-3.1 1.4-3.1 3.1 0 1.7 1.4 3 3.1 3z"/>
+			<path id="Layer" class="s3" d="m108.5 4.3c0.9 0 1.6-0.7 1.6-1.6 0-0.9-0.7-1.7-1.6-1.7-1 0-1.7 0.8-1.7 1.7 0 0.9 0.7 1.6 1.7 1.6z"/>
+			<path id="Layer" class="s4" d="m96.7 126.1c13.1 0 23.8-10.7 23.8-23.8 0-13.1-10.7-23.7-23.8-23.7-13.1 0-23.7 10.6-23.7 23.7 0 13.1 10.6 23.8 23.7 23.8z"/>
+			<path id="Layer" class="s5" d="m96.7 122.7c11.3 0 20.4-9.1 20.4-20.4 0-11.3-9.1-20.4-20.4-20.4-11.3 0-20.4 9.1-20.4 20.4 0 11.3 9.1 20.4 20.4 20.4z"/>
+			<path id="Layer" fill-rule="evenodd" class="s6" d="m96.7 92.1v19.4"/>
+			<path id="Layer" fill-rule="evenodd" class="s6" d="m106.5 102.3h-19.3"/>
+		</g>
+	</g>
+</svg>
